@@ -155,7 +155,7 @@ The assistant will greet you and start listening for voice commands.
 
 ## 👨‍💻 Author
 
-**Your Name**
+AZMEERA THARUN
 
 Python Developer | AI Enthusiast
 
